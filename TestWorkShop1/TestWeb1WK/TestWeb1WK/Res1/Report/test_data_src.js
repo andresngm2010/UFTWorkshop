@@ -1,0 +1,1 @@
+﻿var __testDataSource={items:[{dataFilePath:'Default.xlsx',dataFileFormat:'excel',dataFileFolder:'C:\\Users\\SAGGA-SERVICIOS\\Desktop\\CODE\\UFTWorkshop\\TestWorkShop1\\TestWeb1WK\\TestWeb1WK\\Res1',namePairs:[]}]};
